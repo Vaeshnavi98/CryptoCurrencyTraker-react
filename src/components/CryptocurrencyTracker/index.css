@@ -1,0 +1,14 @@
+.main-div {
+  background-color: black;
+  text-align: center;
+  height: 100%;
+  background-size: cover;
+  padding: 10px;
+}
+.main-heading {
+  color: #00e7ff;
+}
+.img-deco {
+  height: 400px;
+  width: 700px;
+}

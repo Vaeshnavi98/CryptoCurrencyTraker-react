@@ -1,0 +1,30 @@
+/* Write your CSS code here */
+.item-div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.item-inner-div {
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+}
+.item-currency-div {
+  display: flex;
+  flex-direction: row;
+  padding: 15px;
+}
+.logo-deco {
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  margin-top: 15px;
+}
+p {
+  color: white;
+  margin-left: 15px;
+}
+
+.usd-value{
+    margin-right: 100px;
+}
